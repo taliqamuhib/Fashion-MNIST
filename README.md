@@ -20,6 +20,6 @@ This project is licensed under the MIT License.
 Feel free to use this code for educational and personal projects.
 
 **📧 Contact**
-If you have any questions or need further assistance, feel free to contact the project maintainer at Taliqa.muhib@gmail.com.
+If you have any questions or need further assistance, feel free to contact the project maintainer at taliqa.muhib@gmail.com.
 
 **Happy coding! 👩‍💻👨‍💻**
