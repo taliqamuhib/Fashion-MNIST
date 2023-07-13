@@ -7,8 +7,7 @@ The Fashion-MNIST dataset is a collection of 60,000 labeled images of 10 differe
 **🚀 Getting Started**
 To get started with this project, follow these steps:
 
-Clone the repository: git clone https://github.com/your-username/fashion-mnist-anns.git
-Navigate to the project directory: cd fashion-mnist-anns
+Download it from Kaggle: https://www.kaggle.com/datasets/zalando-research/fashionmnist
 Install the required dependencies: pip install -r requirements.txt
 Download the Fashion-MNIST dataset and place it in the data directory.
 
